@@ -8,7 +8,9 @@
 🚀 What I'm Working On
 
 Cybersecurity: SQLi testing, brute-force simulations, vulnerability assessments
+
 Business Analysis: User stories, agile workflows, SWOT,Process diagrams and Data Visualization
+
 Software Development: Building and testing scalable, real-world solutions
 
 
